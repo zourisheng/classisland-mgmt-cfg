@@ -12,6 +12,10 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/zourisheng/classisland-mgmt-cfg/master/subjects.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/zourisheng/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
     }
 }
 
