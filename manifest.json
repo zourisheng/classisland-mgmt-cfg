@@ -12,10 +12,7 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/zourisheng/classisland-mgmt-cfg/master/subjects.json",
         "Version": 1
-    },
-    "DisableProfileSubjectsEditing" : true,
-    "DisableSplashCustomize" : true,
-    "DisableDebugMenu" : true,
-    "AllowExitManagement" : false
+    }
 }
+
 

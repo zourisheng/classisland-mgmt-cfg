@@ -1,0 +1,6 @@
+{
+"DisableProfileSubjectsEditing" : true,
+"DisableSplashCustomize" : true,
+"DisableDebugMenu" : true,
+"AllowExitManagement" : false
+}
