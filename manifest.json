@@ -3,7 +3,7 @@
     "OrganizationName": "镇平县院士育才中学",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/zourisheng/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/zourisheng/classisland-mgmt-cfg/master/timelayouts.json",
