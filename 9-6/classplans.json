@@ -3,7 +3,7 @@
     "TimeLayouts": {},
     "ClassPlans": 
 {
-    "c524323f-4733-4b0e-993a-4dab31c100ee": {
+    "a00c399c-aaeb-450b-a31a-512f4e455509": {
         "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
         "TimeRule": {
             "WeekDay": 5,
@@ -43,448 +43,7 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            }
-        ],
-        "Name": "周五(无午休",
-        "IsOverlay": false,
-        "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-23T12:34:58.0566958+08:00",
-        "IsEnabled": false,
-        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-        "AttachedObjects": {
-            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                "IsEnabled": true,
-                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                "IsClassOnNotificationEnabled": true,
-                "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": true,
-                "ClassPreparingDeltaTime": 60,
-                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                "ClassOnPreparingMaskText": "即将上课",
-                "ClassOnMaskText": "上课",
-                "ClassOffMaskText": "课间休息",
-                "ClassOffOverlayText": "",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                "IsAttachSettingsEnabled": false,
-                "ShowExtraInfoOnTimePoint": true,
-                "ExtraInfoType": 0,
-                "IsCountdownEnabled": true,
-                "CountdownSeconds": 60,
-                "ExtraInfo4ShowSecondsSeconds": 0,
-                "ScheduleSpacing": 1,
-                "ShowCurrentLessonOnlyOnClass": false,
-                "IsNonExactCountdownEnabled": false,
-                "IsActive": false
-            }
-        },
-        "IsActive": false
-    },
-    "2029247f-f02e-4b9b-a5d2-53288f46406a": {
-        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
-        "TimeRule": {
-            "WeekDay": 0,
-            "WeekCountDiv": 0,
-            "WeekCountDivTotal": 2,
-            "IsActive": false
-        },
-        "Classes": [
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "cf251cd8-2aab-4aa1-8211-50f4e6919a3d",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            }
-        ],
-        "Name": "周日",
-        "IsOverlay": false,
-        "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:40:23.3950259+08:00",
-        "IsEnabled": true,
-        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-        "AttachedObjects": {
-            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                "IsEnabled": true,
-                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                "IsClassOnNotificationEnabled": true,
-                "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": false,
-                "ClassPreparingDeltaTime": 30,
-                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                "ClassOnPreparingMaskText": "即将上课",
-                "ClassOnMaskText": "上课",
-                "ClassOffMaskText": "课间休息",
-                "ClassOffOverlayText": "",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                "IsAttachSettingsEnabled": false,
-                "ShowExtraInfoOnTimePoint": true,
-                "ExtraInfoType": 0,
-                "IsCountdownEnabled": true,
-                "CountdownSeconds": 60,
-                "ExtraInfo4ShowSecondsSeconds": 0,
-                "ScheduleSpacing": 1,
-                "ShowCurrentLessonOnlyOnClass": false,
-                "IsNonExactCountdownEnabled": false,
-                "IsActive": false
-            }
-        },
-        "IsActive": false
-    },
-    "f44e9170-7eef-4981-8cb2-a832fcf64c5c": {
-        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
-        "TimeRule": {
-            "WeekDay": 6,
-            "WeekCountDiv": 0,
-            "WeekCountDivTotal": 2,
-            "IsActive": false
-        },
-        "Classes": [
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            }
-        ],
-        "Name": "周六",
-        "IsOverlay": false,
-        "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:40:09.0997602+08:00",
-        "IsEnabled": true,
-        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-        "AttachedObjects": {
-            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                "IsEnabled": true,
-                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                "IsClassOnNotificationEnabled": true,
-                "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": false,
-                "ClassPreparingDeltaTime": 30,
-                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                "ClassOnPreparingMaskText": "即将上课",
-                "ClassOnMaskText": "上课",
-                "ClassOffMaskText": "课间休息",
-                "ClassOffOverlayText": "",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                "IsAttachSettingsEnabled": false,
-                "ShowExtraInfoOnTimePoint": true,
-                "ExtraInfoType": 0,
-                "IsCountdownEnabled": true,
-                "CountdownSeconds": 60,
-                "ExtraInfo4ShowSecondsSeconds": 0,
-                "ScheduleSpacing": 1,
-                "ShowCurrentLessonOnlyOnClass": false,
-                "IsNonExactCountdownEnabled": false,
-                "IsActive": false
-            }
-        },
-        "IsActive": false
-    },
-    "4d6db0bb-b445-448d-a6a6-15687e37432c": {
-        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
-        "TimeRule": {
-            "WeekDay": 1,
-            "WeekCountDiv": 0,
-            "WeekCountDivTotal": 2,
-            "IsActive": false
-        },
-        "Classes": [
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -496,19 +55,7 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -520,334 +67,52 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "6e5e220e-e62e-4403-a2ae-67db1f9fd45b",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
             },
             {
-                "SubjectId": "6e5e220e-e62e-4403-a2ae-67db1f9fd45b",
+                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
             },
             {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
             },
             {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
             },
             {
-                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
             }
         ],
-        "Name": "周一",
+        "Name": "周五",
         "IsOverlay": false,
         "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:34:27.8295948+08:00",
-        "IsEnabled": true,
-        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-        "AttachedObjects": {
-            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                "IsEnabled": true,
-                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                "IsClassOnNotificationEnabled": true,
-                "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": false,
-                "ClassPreparingDeltaTime": 30,
-                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                "ClassOnPreparingMaskText": "即将上课",
-                "ClassOnMaskText": "上课",
-                "ClassOffMaskText": "课间休息",
-                "ClassOffOverlayText": "",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                "IsAttachSettingsEnabled": false,
-                "ShowExtraInfoOnTimePoint": true,
-                "ExtraInfoType": 0,
-                "IsCountdownEnabled": true,
-                "CountdownSeconds": 60,
-                "ExtraInfo4ShowSecondsSeconds": 0,
-                "ScheduleSpacing": 1,
-                "ShowCurrentLessonOnlyOnClass": false,
-                "IsNonExactCountdownEnabled": false,
-                "IsActive": false
-            }
-        },
-        "IsActive": false
-    },
-    "8c498d86-fa32-4992-928e-a4457c63d57f": {
-        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
-        "TimeRule": {
-            "WeekDay": 2,
-            "WeekCountDiv": 0,
-            "WeekCountDivTotal": 2,
-            "IsActive": false
-        },
-        "Classes": [
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "14410739-8ce9-4cba-a8b2-8296868071fb",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            }
-        ],
-        "Name": "周二",
-        "IsOverlay": false,
-        "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:36:00.4562471+08:00",
-        "IsEnabled": true,
-        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
-        "AttachedObjects": {
-            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                "IsEnabled": true,
-                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                "IsClassOnNotificationEnabled": true,
-                "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": false,
-                "ClassPreparingDeltaTime": 30,
-                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                "ClassOnPreparingMaskText": "即将上课",
-                "ClassOnMaskText": "上课",
-                "ClassOffMaskText": "课间休息",
-                "ClassOffOverlayText": "",
-                "IsAttachSettingsEnabled": false,
-                "IsActive": false
-            },
-            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                "IsAttachSettingsEnabled": false,
-                "ShowExtraInfoOnTimePoint": true,
-                "ExtraInfoType": 0,
-                "IsCountdownEnabled": true,
-                "CountdownSeconds": 60,
-                "ExtraInfo4ShowSecondsSeconds": 0,
-                "ScheduleSpacing": 1,
-                "ShowCurrentLessonOnlyOnClass": false,
-                "IsNonExactCountdownEnabled": false,
-                "IsActive": false
-            }
-        },
-        "IsActive": false
-    },
-    "45551a11-0cf5-42b6-a52f-15ea8c4a489d": {
-        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
-        "TimeRule": {
-            "WeekDay": 3,
-            "WeekCountDiv": 0,
-            "WeekCountDivTotal": 2,
-            "IsActive": false
-        },
-        "Classes": [
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "e00fc56a-f0a8-4aa4-aefc-fe9cee15d6fe",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "e00fc56a-f0a8-4aa4-aefc-fe9cee15d6fe",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "5e7643cf-6548-4ccb-8a78-afe07972dc40",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "14410739-8ce9-4cba-a8b2-8296868071fb",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            }
-        ],
-        "Name": "周三",
-        "IsOverlay": false,
-        "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:37:01.3719489+08:00",
+        "OverlaySetupTime": "2025-02-21T20:38:49.0664144+08:00",
         "IsEnabled": true,
         "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
         "AttachedObjects": {
@@ -925,7 +190,7 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -949,7 +214,7 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -1032,7 +297,742 @@
         },
         "IsActive": false
     },
-    "a00c399c-aaeb-450b-a31a-512f4e455509": {
+    "45551a11-0cf5-42b6-a52f-15ea8c4a489d": {
+        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
+        "TimeRule": {
+            "WeekDay": 3,
+            "WeekCountDiv": 0,
+            "WeekCountDivTotal": 2,
+            "IsActive": false
+        },
+        "Classes": [
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "e00fc56a-f0a8-4aa4-aefc-fe9cee15d6fe",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "e00fc56a-f0a8-4aa4-aefc-fe9cee15d6fe",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "5e7643cf-6548-4ccb-8a78-afe07972dc40",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "14410739-8ce9-4cba-a8b2-8296868071fb",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            }
+        ],
+        "Name": "周三",
+        "IsOverlay": false,
+        "OverlaySourceId": null,
+        "OverlaySetupTime": "2025-02-21T20:37:01.3719489+08:00",
+        "IsEnabled": true,
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": false,
+                "ClassPreparingDeltaTime": 30,
+                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                "ClassOnPreparingMaskText": "即将上课",
+                "ClassOnMaskText": "上课",
+                "ClassOffMaskText": "课间休息",
+                "ClassOffOverlayText": "",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsNonExactCountdownEnabled": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "8c498d86-fa32-4992-928e-a4457c63d57f": {
+        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
+        "TimeRule": {
+            "WeekDay": 2,
+            "WeekCountDiv": 0,
+            "WeekCountDivTotal": 2,
+            "IsActive": false
+        },
+        "Classes": [
+            {
+                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "14410739-8ce9-4cba-a8b2-8296868071fb",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            }
+        ],
+        "Name": "周二",
+        "IsOverlay": false,
+        "OverlaySourceId": null,
+        "OverlaySetupTime": "2025-02-21T20:36:00.4562471+08:00",
+        "IsEnabled": true,
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": false,
+                "ClassPreparingDeltaTime": 30,
+                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                "ClassOnPreparingMaskText": "即将上课",
+                "ClassOnMaskText": "上课",
+                "ClassOffMaskText": "课间休息",
+                "ClassOffOverlayText": "",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsNonExactCountdownEnabled": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "4d6db0bb-b445-448d-a6a6-15687e37432c": {
+        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
+        "TimeRule": {
+            "WeekDay": 1,
+            "WeekCountDiv": 0,
+            "WeekCountDivTotal": 2,
+            "IsActive": false
+        },
+        "Classes": [
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "6e5e220e-e62e-4403-a2ae-67db1f9fd45b",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "6e5e220e-e62e-4403-a2ae-67db1f9fd45b",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            }
+        ],
+        "Name": "周一",
+        "IsOverlay": false,
+        "OverlaySourceId": null,
+        "OverlaySetupTime": "2025-02-21T20:34:27.8295948+08:00",
+        "IsEnabled": true,
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": false,
+                "ClassPreparingDeltaTime": 30,
+                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                "ClassOnPreparingMaskText": "即将上课",
+                "ClassOnMaskText": "上课",
+                "ClassOffMaskText": "课间休息",
+                "ClassOffOverlayText": "",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsNonExactCountdownEnabled": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "f44e9170-7eef-4981-8cb2-a832fcf64c5c": {
+        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
+        "TimeRule": {
+            "WeekDay": 6,
+            "WeekCountDiv": 0,
+            "WeekCountDivTotal": 2,
+            "IsActive": false
+        },
+        "Classes": [
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            }
+        ],
+        "Name": "周六",
+        "IsOverlay": false,
+        "OverlaySourceId": null,
+        "OverlaySetupTime": "2025-02-21T20:40:09.0997602+08:00",
+        "IsEnabled": true,
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": false,
+                "ClassPreparingDeltaTime": 30,
+                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                "ClassOnPreparingMaskText": "即将上课",
+                "ClassOnMaskText": "上课",
+                "ClassOffMaskText": "课间休息",
+                "ClassOffOverlayText": "",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsNonExactCountdownEnabled": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "2029247f-f02e-4b9b-a5d2-53288f46406a": {
+        "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
+        "TimeRule": {
+            "WeekDay": 0,
+            "WeekCountDiv": 0,
+            "WeekCountDivTotal": 2,
+            "IsActive": false
+        },
+        "Classes": [
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "cf251cd8-2aab-4aa1-8211-50f4e6919a3d",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            }
+        ],
+        "Name": "周日",
+        "IsOverlay": false,
+        "OverlaySourceId": null,
+        "OverlaySetupTime": "2025-02-21T20:40:23.3950259+08:00",
+        "IsEnabled": true,
+        "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": false,
+                "ClassPreparingDeltaTime": 30,
+                "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                "ClassOnPreparingMaskText": "即将上课",
+                "ClassOnMaskText": "上课",
+                "ClassOffMaskText": "课间休息",
+                "ClassOffOverlayText": "",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsNonExactCountdownEnabled": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "c524323f-4733-4b0e-993a-4dab31c100ee": {
         "TimeLayoutId": "af4fd289-7a84-4178-b31b-5b494386a126",
         "TimeRule": {
             "WeekDay": 5,
@@ -1072,13 +1072,7 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                "IsChangedClass": false,
-                "AttachedObjects": {},
-                "IsActive": false
-            },
-            {
-                "SubjectId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -1102,7 +1096,13 @@
                 "IsActive": false
             },
             {
-                "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                "SubjectId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "IsChangedClass": false,
+                "AttachedObjects": {},
+                "IsActive": false
+            },
+            {
+                "SubjectId": "c80bb7e9-ec40-4bd3-9303-3e0978b66007",
                 "IsChangedClass": false,
                 "AttachedObjects": {},
                 "IsActive": false
@@ -1138,11 +1138,11 @@
                 "IsActive": false
             }
         ],
-        "Name": "周五",
+        "Name": "周五(无午休",
         "IsOverlay": false,
         "OverlaySourceId": null,
-        "OverlaySetupTime": "2025-02-21T20:38:49.0664144+08:00",
-        "IsEnabled": true,
+        "OverlaySetupTime": "2025-02-23T12:34:58.0566958+08:00",
+        "IsEnabled": false,
         "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
         "AttachedObjects": {
             "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
@@ -1154,8 +1154,8 @@
             "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
                 "IsClassOnNotificationEnabled": true,
                 "IsClassOnPreparingNotificationEnabled": true,
-                "IsClassOffNotificationEnabled": false,
-                "ClassPreparingDeltaTime": 30,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
                 "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
                 "ClassOnPreparingMaskText": "即将上课",
                 "ClassOnMaskText": "上课",
