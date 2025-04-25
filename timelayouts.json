@@ -11,7 +11,7 @@
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
-                "BreakName": "早操",
+                "BreakName": "早读",
                 "ActionSet": null,
                 "AttachedObjects": {
                     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -50,7 +50,7 @@
             },
             {
                 "StartSecond": "2025-02-21T07:00:00",
-                "EndSecond": "2025-02-21T07:30:00",
+                "EndSecond": "2025-02-21T07:35:00",
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
@@ -92,7 +92,7 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T07:30:00",
+                "StartSecond": "2025-02-21T07:35:00",
                 "EndSecond": "2025-02-21T07:50:00",
                 "TimeType": 0,
                 "IsHideDefault": false,
@@ -136,7 +136,7 @@
             },
             {
                 "StartSecond": "2025-02-21T07:50:00",
-                "EndSecond": "2025-02-21T08:00:00",
+                "EndSecond": "2025-02-21T08:10:00",
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
@@ -237,7 +237,7 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T08:00:00",
+                "StartSecond": "2025-02-21T08:10:00",
                 "EndSecond": "2025-02-21T08:55:00",
                 "TimeType": 0,
                 "IsHideDefault": false,
@@ -743,10 +743,10 @@
             },
             {
                 "StartSecond": "2025-02-21T12:40:00",
-                "EndSecond": "2025-02-21T13:10:00",
+                "EndSecond": "2025-02-21T13:20:00",
                 "TimeType": 0,
                 "IsHideDefault": false,
-                "DefaultClassId": "",
+                "DefaultClassId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
                 "BreakName": "",
                 "ActionSet": null,
                 "AttachedObjects": {
@@ -785,8 +785,8 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T13:10:00",
-                "EndSecond": "2025-02-21T13:50:00",
+                "StartSecond": "2025-02-21T13:20:00",
+                "EndSecond": "2025-02-21T14:00:00",
                 "TimeType": 0,
                 "IsHideDefault": false,
                 "DefaultClassId": "36999a90-8e69-4d97-9b36-742fdf9102d0",
@@ -828,8 +828,8 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T13:10:00",
-                "EndSecond": "2025-02-21T13:10:00",
+                "StartSecond": "2025-02-21T13:20:00",
+                "EndSecond": "2025-02-21T13:20:00",
                 "TimeType": 2,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
@@ -871,8 +871,8 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T13:10:00",
-                "EndSecond": "2025-02-21T13:10:00",
+                "StartSecond": "2025-02-21T13:20:00",
+                "EndSecond": "2025-02-21T13:20:00",
                 "TimeType": 3,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
@@ -930,52 +930,9 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T13:50:00",
-                "EndSecond": "2025-02-21T14:00:00",
-                "TimeType": 1,
-                "IsHideDefault": false,
-                "DefaultClassId": "",
-                "BreakName": "",
-                "ActionSet": null,
-                "AttachedObjects": {
-                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                        "IsClassOnNotificationEnabled": true,
-                        "IsClassOnPreparingNotificationEnabled": true,
-                        "IsClassOffNotificationEnabled": true,
-                        "ClassPreparingDeltaTime": 60,
-                        "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                        "ClassOnPreparingMaskText": "即将上课",
-                        "ClassOnMaskText": "上课",
-                        "ClassOffMaskText": "课间休息",
-                        "ClassOffOverlayText": "",
-                        "IsAttachSettingsEnabled": false,
-                        "IsActive": false
-                    },
-                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                        "IsAttachSettingsEnabled": false,
-                        "ShowExtraInfoOnTimePoint": true,
-                        "ExtraInfoType": 0,
-                        "IsCountdownEnabled": true,
-                        "CountdownSeconds": 60,
-                        "ExtraInfo4ShowSecondsSeconds": 0,
-                        "ScheduleSpacing": 1,
-                        "ShowCurrentLessonOnlyOnClass": false,
-                        "IsNonExactCountdownEnabled": false,
-                        "IsActive": false
-                    },
-                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                        "AlertShowMode": 2,
-                        "ForecastShowMode": 2,
-                        "IsAttachSettingsEnabled": true,
-                        "IsActive": false
-                    }
-                },
-                "IsActive": false
-            },
-            {
                 "StartSecond": "2025-02-21T14:00:00",
-                "EndSecond": "2025-02-21T14:45:00",
-                "TimeType": 0,
+                "EndSecond": "2025-02-21T14:10:00",
+                "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
                 "BreakName": "",
@@ -1016,9 +973,9 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T14:45:00",
+                "StartSecond": "2025-02-21T14:10:00",
                 "EndSecond": "2025-02-21T14:55:00",
-                "TimeType": 1,
+                "TimeType": 0,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
                 "BreakName": "",
@@ -1060,8 +1017,8 @@
             },
             {
                 "StartSecond": "2025-02-21T14:55:00",
-                "EndSecond": "2025-02-21T15:40:00",
-                "TimeType": 0,
+                "EndSecond": "2025-02-21T15:05:00",
+                "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
                 "BreakName": "",
@@ -1102,9 +1059,9 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T15:40:00",
+                "StartSecond": "2025-02-21T15:05:00",
                 "EndSecond": "2025-02-21T15:50:00",
-                "TimeType": 1,
+                "TimeType": 0,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
                 "BreakName": "",
@@ -1146,10 +1103,10 @@
             },
             {
                 "StartSecond": "2025-02-21T15:50:00",
-                "EndSecond": "2025-02-21T16:35:00",
-                "TimeType": 0,
+                "EndSecond": "2025-02-21T16:00:00",
+                "TimeType": 1,
                 "IsHideDefault": false,
-                "DefaultClassId": "e0a3be7b-3c8c-4dc2-a4b2-a5625fb8d938",
+                "DefaultClassId": "",
                 "BreakName": "",
                 "ActionSet": null,
                 "AttachedObjects": {
@@ -1188,12 +1145,55 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T16:35:00",
+                "StartSecond": "2025-02-21T16:00:00",
+                "EndSecond": "2025-02-21T16:45:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "556bc66d-e3b1-4e09-9eb7-b4b3f93aba1c",
+                "BreakName": "",
+                "ActionSet": null,
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                        "ClassOnPreparingMaskText": "即将上课",
+                        "ClassOnMaskText": "上课",
+                        "ClassOffMaskText": "课间休息",
+                        "ClassOffOverlayText": "",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsNonExactCountdownEnabled": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2025-02-21T16:45:00",
                 "EndSecond": "2025-02-21T17:05:00",
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
-                "BreakName": "培优补弱",
+                "BreakName": "大课间",
                 "ActionSet": null,
                 "AttachedObjects": {
                     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -1231,8 +1231,8 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T16:35:00",
-                "EndSecond": "2025-02-21T16:35:00",
+                "StartSecond": "2025-02-21T16:45:00",
+                "EndSecond": "2025-02-21T16:45:00",
                 "TimeType": 3,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
