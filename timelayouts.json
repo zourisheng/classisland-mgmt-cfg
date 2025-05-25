@@ -7,7 +7,7 @@
         "Layouts": [
             {
                 "StartSecond": "2025-02-21T06:30:00",
-                "EndSecond": "2025-02-21T07:00:00",
+                "EndSecond": "2025-02-21T07:15:00",
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
@@ -20,7 +20,9 @@
                         "IsClassOffNotificationEnabled": true,
                         "ClassPreparingDeltaTime": 60,
                         "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                        "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
                         "ClassOnPreparingMaskText": "即将上课",
+                        "OutdoorClassOnPreparingMaskText": "即将上课",
                         "ClassOnMaskText": "上课",
                         "ClassOffMaskText": "课间休息",
                         "ClassOffOverlayText": "",
@@ -49,12 +51,12 @@
                 "IsActive": false
             },
             {
-                "StartSecond": "2025-02-21T07:00:00",
+                "StartSecond": "2025-02-21T07:15:00",
                 "EndSecond": "2025-02-21T07:35:00",
                 "TimeType": 1,
                 "IsHideDefault": false,
                 "DefaultClassId": "",
-                "BreakName": "早饭",
+                "BreakName": "早读",
                 "ActionSet": null,
                 "AttachedObjects": {
                     "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -63,7 +65,9 @@
                         "IsClassOffNotificationEnabled": true,
                         "ClassPreparingDeltaTime": 60,
                         "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                        "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
                         "ClassOnPreparingMaskText": "即将上课",
+                        "OutdoorClassOnPreparingMaskText": "即将上课",
                         "ClassOnMaskText": "上课",
                         "ClassOffMaskText": "课间休息",
                         "ClassOffOverlayText": "",
